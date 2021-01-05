@@ -5,6 +5,72 @@
     <link>https://scottjeen.github.io/</link>
     <description>Recent content on Scott Jeen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://scottjeen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 16:33:12 +0000</lastBuildDate><atom:link href="https://scottjeen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Probabilistic Machine Learning in Climate Change Mitigation</title>
+      <link>https://scottjeen.github.io/posts/2021/01/the-role-of-probabilistic-machine-learning-in-climate-change-mitigation/</link>
+      <pubDate>Tue, 05 Jan 2021 16:33:12 +0000</pubDate>
+      
+      <guid>https://scottjeen.github.io/posts/2021/01/the-role-of-probabilistic-machine-learning-in-climate-change-mitigation/</guid>
+      <description>🌍 If we are to successfully mitigate climate change we must reduce global emissions to near-zero by 2050. To this end, three solutions exist:
+ Generate energy using emission-free technologies; Capture and bury emissions using carbon capture and storage (CCS); and Use energy more efficiently.  In the UK, emission reduction efforts via solution 1) have so far proven extremely successful. Emission-free energy technologies generated 45% of UK electricity demand in 2020 which has caused a decrease in grid carbon intensity of 66%.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://scottjeen.github.io/projects/</link>
+      <pubDate>Mon, 04 Jan 2021 17:34:13 +0000</pubDate>
+      
+      <guid>https://scottjeen.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://scottjeen.github.io/cv/</link>
+      <pubDate>Mon, 04 Jan 2021 17:33:32 +0000</pubDate>
+      
+      <guid>https://scottjeen.github.io/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://scottjeen.github.io/about/</link>
+      <pubDate>Mon, 04 Jan 2021 17:15:23 +0000</pubDate>
+      
+      <guid>https://scottjeen.github.io/about/</guid>
+      <description>Hey! 👋 I&amp;rsquo;m Scott, I&amp;rsquo;m a PhD candidate in engineering at the University of Cambridge researching machine learning and its applications for mitigating planet-cooking.
+I&amp;rsquo;m part of Jonathan Cullen&amp;rsquo;s group - the Resource Efficiency Collective - where I look at ways of controlling complex systems for improved energy efficiency. This involves building Reinforcement Learning agents that learn to control buildings and industrial processes efficiently, and to draw power from the grid at optimal times - techniques often called demand response.</description>
+    </item>
+    
+    <item>
+      <title>Book Review: Cradle-to-Cradle Remaking the Way We Make Things</title>
+      <link>https://scottjeen.github.io/posts/2018/11/book-review-cradle-to-cradle-remaking-the-way-we-make-things/</link>
+      <pubDate>Tue, 20 Nov 2018 16:54:55 +0000</pubDate>
+      
+      <guid>https://scottjeen.github.io/posts/2018/11/book-review-cradle-to-cradle-remaking-the-way-we-make-things/</guid>
+      <description>Consider the cherry tree. A frenetic supply chain of blossom that produces thousands of seeds in the hope that one might fall to the soil, take root and grow. Its manufacturing model is inefficient, wasteful and laborious, yet beautifully nourishing to its surrounding ecology. The blossom that do not germinate instead provide nutrients for insects, microorganisms, animals and soil; its abundance and over-production should not be chastised, but celebrated.</description>
+    </item>
+    
+    <item>
+      <title>Plastic Politics</title>
+      <link>https://scottjeen.github.io/posts/2018/10/plastic-politics/</link>
+      <pubDate>Fri, 19 Oct 2018 16:56:04 +0000</pubDate>
+      
+      <guid>https://scottjeen.github.io/posts/2018/10/plastic-politics/</guid>
+      <description>Single-use plastics and the European Single Market have more in common than you may think; they were both popularised in the middle of the 20th century, they both bring economic benefit to western economies and they both have a party trying to discontinue their use. Negotiating the terms of my exit from the plastics market (read: Plaxit) has required diplomacy and strong leadership in equal measure. Admittedly, I have not penned a Chequers plan, nor have I travelled to Brussels for negotiations, but I have had to make compromises.</description>
+    </item>
+    
+    <item>
+      <title>Change</title>
+      <link>https://scottjeen.github.io/posts/2018/10/change/</link>
+      <pubDate>Fri, 12 Oct 2018 16:55:47 +0000</pubDate>
+      
+      <guid>https://scottjeen.github.io/posts/2018/10/change/</guid>
+      <description>What’s that Mahatmu Gandhi quote again? The one about changing the world and so-on? It never really resonated with me. It’s rather pessimistic, but I often succumb to Down’s paradox or the paradox of voting, that is, the disbelief that one’s vote can alter the outcome of an election or, crucially, that one’s actions can cause a tangible disruption to our environment. During my first 10 days at the University of Cambridge I have quickly (and quite rightly) felt my pessimism is unshared.</description>
+    </item>
+    
   </channel>
 </rss>
