@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Scott Jeen</title>
-        <link>https://scottjeen.github.io/posts/</link>
+        <link>https://enjeeneer.io/posts/</link>
         <description>Recent content in Posts on Scott Jeen</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 05 Jan 2021 16:33:12 +0000</lastBuildDate>
-        <atom:link href="https://scottjeen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://enjeeneer.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>The Role of Probabilistic Machine Learning in Climate Change Mitigation</title>
-            <link>https://scottjeen.github.io/posts/2021/01/the-role-of-probabilistic-machine-learning-in-climate-change-mitigation/</link>
+            <link>https://enjeeneer.io/posts/2021/01/the-role-of-probabilistic-machine-learning-in-climate-change-mitigation/</link>
             <pubDate>Tue, 05 Jan 2021 16:33:12 +0000</pubDate>
             
-            <guid>https://scottjeen.github.io/posts/2021/01/the-role-of-probabilistic-machine-learning-in-climate-change-mitigation/</guid>
+            <guid>https://enjeeneer.io/posts/2021/01/the-role-of-probabilistic-machine-learning-in-climate-change-mitigation/</guid>
             <description>🌍 If we are to successfully mitigate climate change we must reduce global emissions to near-zero by 2050. To this end, three solutions exist:
  Generate energy using emission-free technologies; Capture and bury emissions using carbon capture and storage (CCS); and Use energy more efficiently.  In the UK, emission reduction efforts via solution 1) have so far proven extremely successful. Emission-free energy technologies generated 45% of UK electricity demand in 2020 which has caused a decrease in grid carbon intensity of 66%.</description>
             <content type="html"><![CDATA[<h1 id="heading">🌍</h1>
@@ -32,10 +32,10 @@
         
         <item>
             <title>Book Review: Cradle-to-Cradle Remaking the Way We Make Things</title>
-            <link>https://scottjeen.github.io/posts/2018/11/book-review-cradle-to-cradle-remaking-the-way-we-make-things/</link>
+            <link>https://enjeeneer.io/posts/2018/11/book-review-cradle-to-cradle-remaking-the-way-we-make-things/</link>
             <pubDate>Tue, 20 Nov 2018 16:54:55 +0000</pubDate>
             
-            <guid>https://scottjeen.github.io/posts/2018/11/book-review-cradle-to-cradle-remaking-the-way-we-make-things/</guid>
+            <guid>https://enjeeneer.io/posts/2018/11/book-review-cradle-to-cradle-remaking-the-way-we-make-things/</guid>
             <description>Consider the cherry tree. A frenetic supply chain of blossom that produces thousands of seeds in the hope that one might fall to the soil, take root and grow. Its manufacturing model is inefficient, wasteful and laborious, yet beautifully nourishing to its surrounding ecology. The blossom that do not germinate instead provide nutrients for insects, microorganisms, animals and soil; its abundance and over-production should not be chastised, but celebrated.</description>
             <content type="html"><![CDATA[<figure>
     <img src="/img/cradle.jpg" width="250" height="350"/> 
@@ -62,10 +62,10 @@
         
         <item>
             <title>Plastic Politics</title>
-            <link>https://scottjeen.github.io/posts/2018/10/plastic-politics/</link>
+            <link>https://enjeeneer.io/posts/2018/10/plastic-politics/</link>
             <pubDate>Fri, 19 Oct 2018 16:56:04 +0000</pubDate>
             
-            <guid>https://scottjeen.github.io/posts/2018/10/plastic-politics/</guid>
+            <guid>https://enjeeneer.io/posts/2018/10/plastic-politics/</guid>
             <description>Single-use plastics and the European Single Market have more in common than you may think; they were both popularised in the middle of the 20th century, they both bring economic benefit to western economies and they both have a party trying to discontinue their use. Negotiating the terms of my exit from the plastics market (read: Plaxit) has required diplomacy and strong leadership in equal measure. Admittedly, I have not penned a Chequers plan, nor have I travelled to Brussels for negotiations, but I have had to make compromises.</description>
             <content type="html"><![CDATA[<figure>
     <img src="/img/plastic_politics.png" width="350" height="300"/> 
@@ -82,10 +82,10 @@
         
         <item>
             <title>Change</title>
-            <link>https://scottjeen.github.io/posts/2018/10/change/</link>
+            <link>https://enjeeneer.io/posts/2018/10/change/</link>
             <pubDate>Fri, 12 Oct 2018 16:55:47 +0000</pubDate>
             
-            <guid>https://scottjeen.github.io/posts/2018/10/change/</guid>
+            <guid>https://enjeeneer.io/posts/2018/10/change/</guid>
             <description>What’s that Mahatmu Gandhi quote again? The one about changing the world and so-on? It never really resonated with me. It’s rather pessimistic, but I often succumb to Down’s paradox or the paradox of voting, that is, the disbelief that one’s vote can alter the outcome of an election or, crucially, that one’s actions can cause a tangible disruption to our environment. During my first 10 days at the University of Cambridge I have quickly (and quite rightly) felt my pessimism is unshared.</description>
             <content type="html"><![CDATA[<p>What’s that Mahatmu Gandhi quote again? The one about changing the world and so-on? It never really resonated with me. It’s rather pessimistic, but I often succumb to Down’s paradox or the paradox of voting, that is, the disbelief that one’s vote can alter the outcome of an election or, crucially, that one’s actions can cause a tangible disruption to our environment. During my first 10 days at the University of Cambridge I have quickly (and quite rightly) felt my pessimism is unshared. Academics and students here work tirelessly to make the world a better place and there is no doubt that countless individuals will indeed disprove Down’s paradox and enact change that benefits us all. These same academics have set my cohort a challenge to change one thing in our lives for the duration of this term to understand the barriers to change, both personal and external. This is a timely test given the IPCC’s recent report detailing our accelerated impact on the climate and the risks our actions pose to sea level rises, coral reefs, fisheries and agricultural land. The need for change could not be more acute.</p>
 <p>It’s funny, my initial reaction upon hearing of our Change Challenge was one of opposition. Upon reflection, I am not particularly akin to change, nor am I any good at it. Joining the university is arguably the biggest change I have made in the last 5 years and, hilariously, prior to that, my biggest change was attending the university where I studied my undergraduate degree. I am capable of making small changes quite readily: do a bit of running, read more, travel to some new places, but I sub-consciously resist wholesale change. In fairness, I think most of us resist huge change too – the status quo is warm, comfortable and known. Indeed, I feel change resistance is a significant part of our evolutionary makeup. Older generations regularly lament how the world has changed and how younger people don’t act how they would like. This is understandable as their actions, and the way society operated in their youth, allowed them to survive (dare I say thrive!) and in many cases allowed them great wealth and opportunity. But the way we do things now needs not only to change, but be turned on its head. We cannot keep treating our planet the way we do if we want other generations to enjoy what we enjoy. This is hard! I quite like the warm, comfortable status-quo that is our CO2-asphyxiated home. But if we are going to change it we need people like me who don’t like change to really change the way we operate.</p>
