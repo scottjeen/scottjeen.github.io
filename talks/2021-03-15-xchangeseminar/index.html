@@ -55,7 +55,7 @@ Abstract
 In this talk, I will introduce deterministic and probabilstic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model abritrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets.">
 <meta itemprop="datePublished" content="2021-03-15T09:41:12+00:00" />
 <meta itemprop="dateModified" content="2021-03-15T09:41:12+00:00" />
-<meta itemprop="wordCount" content="2655">
+<meta itemprop="wordCount" content="2657">
 <meta itemprop="image" content="https://enjeeneer.io"/>
 
 
@@ -232,7 +232,7 @@ In this talk, I will introduce deterministic and probabilstic black-box function
 <li><strong>Probabilistic models:</strong> Include elements of randomness; trials with identical initial conditions will produce different results.</li>
 </ul>
 <p>As you can imagine, these are philosophically contradictory ways of thinking about modelling. The first assumes that there is a definite underlying function to be modelled, and with enough data we will be able to obtain it with sufficient accuracy. The second, assumes the world is random, we will never find the <em>true</em> underlying function because every function is subject to irreducible randomness or uncertainty in the world (cf. <a href="https://en.wikipedia.org/wiki/Uncertainty_quantification">aleatoric uncertainty</a>). The two eminent modelling techniques in these camps are Neural Networks (deterministic) and Gaussian Processes (probabilistic). I&rsquo;ll run through an example explaining the differences between the two.</p>
-<h3 id="22-determinstic-models">2.2 Determinstic models</h3>
+<h3 id="22-deterministic-models-neural-networks">2.2 Deterministic Models: Neural Networks</h3>
 <p>Firstly, we need some data. Let&rsquo;s imagine we&rsquo;ve collected 5 samples from the world that were produced by a function we&rsquo;d like to infer. For simplicity, we&rsquo;ll assume this model is one-dimensional with inputs $x_i$ and outputs $y_i$ creating a dataset of input-output pairs $\mathrm{D} = {x_i,y_i}_i^N$ where we assume the relationship between the variables is $y_i = f(x_i)$. Our goal is to infer the function $f(\cdot)$ from $\mathrm{D}$:</p>
 <figure>
     <img src="https://github.com/enjeeneer/talks/blob/main/2021-03-15-UselessGroupXchange/images/1_data.png?raw=true"/> 
