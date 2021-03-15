@@ -210,7 +210,7 @@ In this talk, I will introduce deterministic and probabilistic black-box functio
 <p><em>Figure: The complex, interconnected electricity grid</em></p>
 <p>As a first step in this direction, my goal is to control one building such that it interacts with the grid most efficiently, and we&rsquo;re doing that in one of Emerson Electric&rsquo;s facilities out in Canada, but more on that later.</p>
 <h3 id="11-reinforcement-learning">1.1 Reinforcement Learning</h3>
-<p>I haven&rsquo;t yet discussed the technique DeepMind used to produce these results; its called <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf">Reinforcement Learning</a> [2]. In general, the RL control loop looks something like this:</p>
+<p>I haven&rsquo;t yet discussed the technique DeepMind used to produce these results; its called <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf">Reinforcement Learning</a> [3]. In general, the RL control loop looks something like this:</p>
 <figure>
     <img src="https://github.com/enjeeneer/talks/blob/main/2021-03-15-UselessGroupXchange/images/rl_basic.png?raw=true"/> 
 </figure>
@@ -330,7 +330,7 @@ $$</p>
     <img src="https://github.com/enjeeneer/talks/blob/main/2021-03-15-UselessGroupXchange/images/11_data.png?raw=true"/> 
 </figure>
 
-<p>Now the black box is telling where it is more and less confident. In the context of control, or reinforcement learning, this is more robust as the agent can be wary when there is uncertainty in the state of the system. This modelling technique is called a <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf">Gaussian Process</a> [3].</p>
+<p>Now the black box is telling where it is more and less confident. In the context of control, or reinforcement learning, this is more robust as the agent can be wary when there is uncertainty in the state of the system. This modelling technique is called a <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf">Gaussian Process</a> [4].</p>
 <h3 id="33-drawbacks">3.3 Drawbacks</h3>
 <ul>
 <li>Expensive to compute; N &gt; ~50,000 prohibitively large</li>
