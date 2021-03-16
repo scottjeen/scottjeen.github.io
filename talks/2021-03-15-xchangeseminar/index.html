@@ -4,14 +4,9 @@
         <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="author" content="">
-<meta name="description" content="Scott Jeen Xchange Seminar, 15th March 2021 Code
-
-[Jupyter Notebook]
-Slides
-[Click here for slideshow]
-Abstract
-In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation." />
+<meta name="author" content="Scott Jeen">
+<meta name="description" content="Abstract
+In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&amp;rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets." />
 <meta name="keywords" content="Scott Jeen, machine learning, rl, black-box functions" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="#252627" />
@@ -20,7 +15,7 @@ In this talk, I will introduce deterministic and probabilistic black-box functio
 
     <title>
         
-            An introduction to black-box function approximators :: Scott Jeen  — Limiting climate change with computers
+            Taking a peek inside black-box function approximators :: Scott Jeen  — Limiting climate change with computers
         
     </title>
 
@@ -47,17 +42,12 @@ In this talk, I will introduce deterministic and probabilistic black-box functio
 
 
 
-<meta itemprop="name" content="An introduction to black-box function approximators">
-<meta itemprop="description" content="Scott Jeen Xchange Seminar, 15th March 2021 Code
-
-[Jupyter Notebook]
-Slides
-[Click here for slideshow]
-Abstract
-In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation.">
-<meta itemprop="datePublished" content="2021-03-15T09:41:12+00:00" />
-<meta itemprop="dateModified" content="2021-03-15T09:41:12+00:00" />
-<meta itemprop="wordCount" content="2687">
+<meta itemprop="name" content="Taking a peek inside black-box function approximators">
+<meta itemprop="description" content="Abstract
+In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets.">
+<meta itemprop="datePublished" content="2021-03-15T16:55:47+00:00" />
+<meta itemprop="dateModified" content="2021-03-15T16:55:47+00:00" />
+<meta itemprop="wordCount" content="2680">
 <meta itemprop="image" content="https://enjeeneer.io"/>
 
 
@@ -67,37 +57,27 @@ In this talk, I will introduce deterministic and probabilistic black-box functio
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://enjeeneer.io"/>
 
-<meta name="twitter:title" content="An introduction to black-box function approximators"/>
-<meta name="twitter:description" content="Scott Jeen Xchange Seminar, 15th March 2021 Code
-
-[Jupyter Notebook]
-Slides
-[Click here for slideshow]
-Abstract
-In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation."/>
+<meta name="twitter:title" content="Taking a peek inside black-box function approximators"/>
+<meta name="twitter:description" content="Abstract
+In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets."/>
 
 
 
-    <meta property="og:title" content="An introduction to black-box function approximators" />
-<meta property="og:description" content="Scott Jeen Xchange Seminar, 15th March 2021 Code
-
-[Jupyter Notebook]
-Slides
-[Click here for slideshow]
-Abstract
-In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation." />
+    <meta property="og:title" content="Taking a peek inside black-box function approximators" />
+<meta property="og:description" content="Abstract
+In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://enjeeneer.io/talks/2021-03-15-xchangeseminar/" />
 <meta property="og:image" content="https://enjeeneer.io"/>
-<meta property="article:published_time" content="2021-03-15T09:41:12+00:00" />
-<meta property="article:modified_time" content="2021-03-15T09:41:12+00:00" />
+<meta property="article:published_time" content="2021-03-15T16:55:47+00:00" />
+<meta property="article:modified_time" content="2021-03-15T16:55:47+00:00" />
 
 
 
 
 
 
-    <meta property="article:published_time" content="2021-03-15 09:41:12 &#43;0000 UTC" />
+    <meta property="article:published_time" content="2021-03-15 16:55:47 &#43;0000 UTC" />
 
 
 
@@ -163,22 +143,22 @@ In this talk, I will introduce deterministic and probabilistic black-box functio
         </div>
 
         <article>
-            <h2 class="post-title"><a href="https://enjeeneer.io/talks/2021-03-15-xchangeseminar/">An introduction to black-box function approximators</a></h2>
+            <h2 class="post-title"><a href="https://enjeeneer.io/talks/2021-03-15-xchangeseminar/">Taking a peek inside black-box function approximators</a></h2>
+            <h3 class="loc"><a href="https://enjeeneer.io/talks/2021-03-15-xchangeseminar/">Xchange Seminar, Cambridge</a></h3>
+            <h3 class="time"><a href="https://enjeeneer.io/talks/2021-03-15-xchangeseminar/">15th March 2021, 1pm</a></h3>
 
             
 
             
 
             <div class="post-content">
-                <h2 id="scott-jeenhttpsenjeeneerio"><a href="https://enjeeneer.io/">Scott Jeen</a></h2>
-<h3 id="xchange-seminar-15th-march-2021">Xchange Seminar, 15th March 2021</h3>
+                <p><strong>Abstract</strong></p>
+<p>In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets. I conclude by applying both techniques to the problem of room temperature prediction.</p>
 <p><strong>Code</strong></p>
 <p><a href="http://colab.research.google.com/github/enjeeneer/talks/blob/main/2021-03-15-UselessGroupXchange/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></p>
 <p>[<a href="http://nbviewer.jupyter.org/github/enjeeneer/talks/blob/main/2021-03-15-UselessGroupXchange/notebook.ipynb">Jupyter Notebook</a>]</p>
 <p><strong>Slides</strong></p>
-<p>[<a href="https://enjeeneer.io/talks/2021-03-15-xchangeseminar/slides.html">Click here for slideshow</a>]</p>
-<p><strong>Abstract</strong></p>
-<p>In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets. I conclude by applying both techniques to the problem of room temperature prediction.</p>
+<p>[<a href="https://enjeeneer.io/talks/2021-03-15-xchangeseminar/2021-03-15slides.html">Click here for slideshow</a>]</p>
 <h2 id="todays-talk">Today&rsquo;s Talk</h2>
 <ul>
 <li>My project</li>

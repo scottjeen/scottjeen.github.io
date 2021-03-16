@@ -6,20 +6,15 @@
     <description>Recent content in machine learning on Scott Jeen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 09:41:12 +0000</lastBuildDate><atom:link href="https://enjeeneer.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 16:55:47 +0000</lastBuildDate><atom:link href="https://enjeeneer.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An introduction to black-box function approximators</title>
+      <title>Taking a peek inside black-box function approximators</title>
       <link>https://enjeeneer.io/talks/2021-03-15-xchangeseminar/</link>
-      <pubDate>Mon, 15 Mar 2021 09:41:12 +0000</pubDate>
+      <pubDate>Mon, 15 Mar 2021 16:55:47 +0000</pubDate>
       
       <guid>https://enjeeneer.io/talks/2021-03-15-xchangeseminar/</guid>
-      <description>Scott Jeen Xchange Seminar, 15th March 2021 Code
-
-[Jupyter Notebook]
-Slides
-[Click here for slideshow]
-Abstract
-In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation.</description>
+      <description>Abstract
+In this talk, I will introduce deterministic and probabilistic black-box function approximators, with applications for timeseries modelling. First, I introduce the multilayer perceptron (neural network), demonstrating how they can model arbitrarily complex functions, but highlighting their propensity to overfit the training data. Second, I introduce the Gaussian process (GP), a bayesian, probabilistic approach to function approximation. I visualise how GP&amp;rsquo;s quantify uncertainty, a robust trait in the context of control, but highlight their inability to scale to large datasets.</description>
     </item>
     
     <item>
