@@ -6,7 +6,17 @@
     <description>Recent content on Scott Jeen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 21:08:05 +0000</lastBuildDate><atom:link href="https://enjeeneer.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Apr 2021 18:18:24 +0100</lastBuildDate><atom:link href="https://enjeeneer.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes, Exercises and Code for Sutton and Barto&#39;s Reinforcement Learning: An Introduction (2018)</title>
+      <link>https://enjeeneer.io/posts/2021/04/notes-exercises-and-code-for-sutton-and-bartos-reinforcement-learning-an-introduction-2018/</link>
+      <pubDate>Fri, 30 Apr 2021 18:18:24 +0100</pubDate>
+      
+      <guid>https://enjeeneer.io/posts/2021/04/notes-exercises-and-code-for-sutton-and-bartos-reinforcement-learning-an-introduction-2018/</guid>
+      <description>In the last few weeks I&amp;rsquo;ve been compiling a set of notes and exercise solutions for Sutton and Barto&amp;rsquo;s Reinforcement Learning: An Introduction. Admittedly, these were produced for my own benefit, but if you&amp;rsquo;d like to look at my notes, my (probably incorrect) answers to the exercises, or the code accommodating those answers, I&amp;rsquo;ll link directly to them below:
+ Notes Exercises Code  Thanks to Bryn Hayder for inspiring this idea, and for providing his exercise solutions which helped me throughout.</description>
+    </item>
+    
     <item>
       <title>Scott&#39;s Uncomprehensive Guide to Scotland </title>
       <link>https://enjeeneer.io/posts/2021/04/scotts-uncomprehensive-guide-to-scotland/</link>
