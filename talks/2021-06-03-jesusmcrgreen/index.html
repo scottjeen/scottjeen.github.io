@@ -382,9 +382,19 @@ if (!doNotTrack) {
 
 <p><strong>Silver (2015)</strong></p>
 <p>Some of the best examples of this powerful behaviour come from the gaming domain. Here&rsquo;s an RL agent, created by DeepMind in 2013, that learns to play the Atari game breakout with no prior knowledge or human input. The agent is fed minimal data; it&rsquo;s fed the raw pixels of the screen as a representation of the state; it&rsquo;s knows it can take three actions: move left, move right, or stay still, and it&rsquo;s fed the score at the top of the screen as a reward signal.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/TmPfTpjtdgg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <p>You can see initially it struggles to hit the ball, but slowly it learns first to connect with the ball. Then by episode 600 it exhibits some pretty intelligent behaviour; it discovers that the optimally strategy is to burrow holes in the channels of the bricks and ping the ball behind the bricks.</p>
 <p>To give you a little more intuition about what is happening under the hood of an RL agent, let&rsquo;s return quickly to the breakout example.</p>
 <p>There are various ways in which the agent can represent its understanding of the system, but one is by assigning each part of the state-space (the environment) a value, and iterating it&rsquo;s formulation of that value as it receives rewards from the environment.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/DG17IKcDt8c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 <p>Here we see a plot of the agent&rsquo;s value estimate for the current state of the environment over time. We see a spiky pattern in the value estimate; just before the ball hits it bricks it has learned that it will receive reward shortly and estimates high value, then the value estimate drops as it knows it would receive more reward until some time into the future.</p>
 <h1 id="3-an-emission-minimising-game">3. An Emission-Minimising Game</h1>
 <p>So I&rsquo;ve introduced RL, and discussed how agents can learn to play extremely complex games with no prior knowledge to a superhuman level. I&rsquo;ve also motivated the need to reduce energy-use as a climate change mitigation technique. I&rsquo;m going to conclude by combining these two sections together, and discuss formulating an emission-minimising game and how we can go about finding a solution.</p>
